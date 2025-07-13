@@ -2,7 +2,7 @@
 
 ## General Infos
 
-This small project with three exercises is part of the Scientific Programming Assignment in the summer semester of 2024. Each exercise will be graded for a maximum of 10 points.
+This small project with three exercises is part of the Scientific Programming Assignment in the summer semester of 2025. Each exercise will be graded for a maximum of 10 points.
 
 1. Due date is **2025-08-31**.
 1. You can work in groups of two students or alone.
