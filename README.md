@@ -6,7 +6,7 @@ This small project with three exercises is part of the Scientific Programming As
 
 1. Due date is **2025-08-31**.
 1. You can work in groups of two students or alone.
-1. Assign yourself to a [**SciProg SS2025 Moodle Group**](https://moodle.hochschule-rhein-waal.de/course/view.php?id=18195), even if you are working alone. 
+1. Assign yourself to a [**SciProg SS2025 Moodle Group**](https://moodle.hochschule-rhein-waal.de/mod/choicegroup/view.php?id=508771), even if you are working alone. 
 1. You can work in **groups of one or two students.**
 1. If you are working in a group of two, you may not divide tasks between you! **All group members must be involved in all tasks!** 
 1. **Download** (not clone) this git repo, **really unzip** it (right click, extract, ...) and **RENAME the unpacked folder according to your moodle group**, e.g. rename `EE_8125_SciProg_SS2025_Project_Group_XX` to `EE_8125_SciProg_SS2024_Project_Group_C`, if your Moodle group is `C`. 
