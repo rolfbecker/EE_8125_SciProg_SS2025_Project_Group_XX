@@ -1,4 +1,4 @@
-# EE_8125_SciProg_SS2024_Project_Group_XX
+# EE_8125_SciProg_SS2025_Project_Group_XX
 
 ## General Infos
 
